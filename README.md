@@ -54,8 +54,8 @@ OpenCV
 
 ### Output preview
 
-<img src="https://github.com/ValerioCann/VisionEye_Mapping_Yolov11/blob/main/Vision_Eye_Mapping_%26_Distance_Calculation_Output.mp4) width="500" height="300"> 
 
+<video src="https://github.com/ValerioCann/VisionEye_Mapping_Yolov11/blob/main/Vision_Eye_Mapping_%26_Distance_Calculation_Output.mp4" width="500" height="300" controls></video>
 
 
 
