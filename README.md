@@ -57,7 +57,6 @@ OpenCV
 
 https://github.com/user-attachments/assets/e86867d3-6b13-4fb6-9150-17455f2e582f
 
-<video src="path/to/video.mp4" width="320" height="240" controls></video>
 
 
 
