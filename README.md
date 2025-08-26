@@ -60,7 +60,4 @@ https://github.com/user-attachments/assets/e86867d3-6b13-4fb6-9150-17455f2e582f
 <video src="path/to/video.mp4" width="320" height="240" controls></video>
 
 
-### Output preview
-
-<img src="https://github.com/ValerioCann/VisionEye_Mapping/assets/136093296/d59111c0-db17-4fca-9883-0b58e316180a" width="500" height="300"> <img src="https://github.com/ValerioCann/VisionEye_Mapping/assets/136093296/ac062ccc-ad42-4dd1-b77a-05fadc3e90a1" width="500" height="300">
 
