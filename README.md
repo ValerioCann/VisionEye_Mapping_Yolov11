@@ -48,12 +48,13 @@ ROI masks to ignore irrelevant zones.
 🙌 Librairies
 
 Ultralytics YOLO
+
 OpenCV
 
 
 ### Output preview
 
-<img src="[https://github.com/ValerioCann/VisionEye_Mapping/assets/136093296/d59111c0-db17-4fca-9883-0b58e316180a](https://github.com/ValerioCann/VisionEye_Mapping_Yolov11/blob/main/Vision_Eye_Mapping_%26_Distance_Calculation_Output.mp4)" width="500" height="300"> 
+<img src="https://github.com/ValerioCann/VisionEye_Mapping_Yolov11/blob/main/Vision_Eye_Mapping_%26_Distance_Calculation_Output.mp4) width="500" height="300"> 
 
 
 
