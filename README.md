@@ -3,7 +3,7 @@
 Detect people, assign a unique ID per person and compute the distance from the bottom-left corner of the frame.  
 The overlay shows a bounding box, a line from the origin to each person, and a label: `person ID | Distance m`
 
-> Demo video and repository link — replace with your own:
+> Demo video and repository link:
 > - GitHub: https://github.com/ValerioCann/VisionEye_Mapping_Yolov11
 
 ---
